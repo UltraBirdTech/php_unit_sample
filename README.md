@@ -1,7 +1,7 @@
 # php_unit_sample
 
 ## composer で DL
-composer require --dev phpunit/phpunit ^7
+`composer require --dev phpunit/phpunit ^7`
 
 下記ができる
 ```
