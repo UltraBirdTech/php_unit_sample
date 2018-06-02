@@ -10,6 +10,7 @@
 drwxr-xr-x  14 hatoritakuya  staff    448 Jun  2 13:58 vendor
 ```
 
+## TODO MEMO
 1. `hoge`クラスをテストするならば`hogeTest`クラスを作成する
 2. `PHPUnit\Framework\TestCase` を継承します。
 3. `test*`という名前のクラスを作成 or `@test`のアノテーションをつけてテストメソッドということを宣言する
