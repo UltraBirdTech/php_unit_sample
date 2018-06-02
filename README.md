@@ -16,6 +16,20 @@ drwxr-xr-x  14 hatoritakuya  staff    448 Jun  2 13:58 vendor
 3. `test*`という名前のクラスを作成 or `@test`のアノテーションをつけてテストメソッドということを宣言する
 4. テストメソッドの中でアサーションメソッドを使用してテストを行う。
 
+## 実行コマンド
+`vendor/bin/phpunit stackTest`
+
+### 実行結果
+```
+PHPUnit 7.2.2 by Sebastian Bergmann and contributors.
+
+...                                                                 3 / 3 (100%)
+
+Time: 29 ms, Memory: 4.00MB
+
+OK (3 tests, 5 assertions)
+```
+
 ## 参考
 http://phpunit.readthedocs.io/ja/latest/writing-tests-for-phpunit.html
 https://phpunit.de/getting-started/phpunit-7.html
